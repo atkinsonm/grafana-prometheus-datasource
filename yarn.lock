@@ -115,9 +115,9 @@
     "@babel/types" "^7.28.6"
 
 "@babel/parser@^7.1.0", "@babel/parser@^7.14.7", "@babel/parser@^7.20.7", "@babel/parser@^7.23.9", "@babel/parser@^7.24.4", "@babel/parser@^7.28.6", "@babel/parser@^7.29.0":
-  version "7.29.0"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.29.0.tgz#669ef345add7d057e92b7ed15f0bac07611831b6"
-  integrity sha512-IyDgFV5GeDUVX4YdF/3CPULtVGSXXMLh1xVIgdCgxApktqnQV0r7/8Nqthg+8YLGaAtdyIlo2qIdZrbCv4+7ww==
+  version "7.29.2"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.29.2.tgz#58bd50b9a7951d134988a1ae177a35ef9a703ba1"
+  integrity sha512-4GgRzy/+fsBa72/RZVJmGKPmZu9Byn8o4MoLpmNe1m8ZfYnz5emHLQz3U4gLud6Zwl0RZIcgiLD7Uq7ySFuDLA==
   dependencies:
     "@babel/types" "^7.29.0"
 
@@ -248,10 +248,10 @@
     core-js "^2.6.5"
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.11.1", "@babel/runtime@^7.12.0", "@babel/runtime@^7.12.1", "@babel/runtime@^7.12.13", "@babel/runtime@^7.12.5", "@babel/runtime@^7.18.3", "@babel/runtime@^7.20.0", "@babel/runtime@^7.20.7", "@babel/runtime@^7.23.2", "@babel/runtime@^7.25.6", "@babel/runtime@^7.26.7", "@babel/runtime@^7.27.0", "@babel/runtime@^7.27.6", "@babel/runtime@^7.28.4", "@babel/runtime@^7.28.6", "@babel/runtime@^7.5.5", "@babel/runtime@^7.7.6", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
-  version "7.28.6"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.28.6.tgz#d267a43cb1836dc4d182cce93ae75ba954ef6d2b"
-  integrity sha512-05WQkdpL9COIMz4LjTxGpPNCdlpyimKppYNoJ5Di5EUObifl8t4tuLuUBBZEpoLYOmfvIWrsp9fCl0HoPRVTdA==
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.11.1", "@babel/runtime@^7.12.0", "@babel/runtime@^7.12.1", "@babel/runtime@^7.12.13", "@babel/runtime@^7.12.5", "@babel/runtime@^7.18.3", "@babel/runtime@^7.20.0", "@babel/runtime@^7.20.7", "@babel/runtime@^7.23.2", "@babel/runtime@^7.25.6", "@babel/runtime@^7.26.7", "@babel/runtime@^7.27.0", "@babel/runtime@^7.27.6", "@babel/runtime@^7.28.6", "@babel/runtime@^7.5.5", "@babel/runtime@^7.7.6", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
+  version "7.29.2"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.29.2.tgz#9a6e2d05f4b6692e1801cd4fb176ad823930ed5e"
+  integrity sha512-JiDShH45zKHWyGe4ZNVRrCjBz8Nh9TMmZG1kh4QTK8hCBTWBi8Da+i7s1fJw7/lYpM4ccepSNfqzZ/QvABBi5g==
 
 "@babel/template@^7.28.6", "@babel/template@^7.3.3":
   version "7.28.6"
@@ -603,14 +603,14 @@
   dependencies:
     react-dom "18.3.1"
 
-"@grafana/data@12.4.0", "@grafana/data@^12.4.0":
-  version "12.4.0"
-  resolved "https://registry.yarnpkg.com/@grafana/data/-/data-12.4.0.tgz#c43a63c7f5f3832a7830c42f2bbc89ab6c07990a"
-  integrity sha512-clIlKlEHq3Ieho4ji5Yb4a5XMPheUzTNuNBwNHoHvtulzXQOtYmmKxjJ1sOwJWsMuqNwV+YdEhQqWKWsWaRd0g==
+"@grafana/data@12.4.1", "@grafana/data@^12.4.0":
+  version "12.4.1"
+  resolved "https://registry.yarnpkg.com/@grafana/data/-/data-12.4.1.tgz#bd5b082e330c2b2f8729d2356ebbf2311e31b0a9"
+  integrity sha512-nhQ4zu70PosQrkZzRtFp8EL9NR+S/T9dF/rqiBHtf/GbGgHIhqEDpW/BtytwfAtpClxS2CXd6dkHFyzClji+tw==
   dependencies:
     "@braintree/sanitize-url" "7.0.1"
-    "@grafana/i18n" "12.4.0"
-    "@grafana/schema" "12.4.0"
+    "@grafana/i18n" "12.4.1"
+    "@grafana/schema" "12.4.1"
     "@leeoniya/ufuzzy" "1.0.19"
     "@types/d3-interpolate" "^3.0.0"
     "@types/string-hash" "1.1.3"
@@ -638,10 +638,10 @@
     xss "^1.0.14"
     zod "^4.3.0"
 
-"@grafana/e2e-selectors@12.4.0":
-  version "12.4.0"
-  resolved "https://registry.yarnpkg.com/@grafana/e2e-selectors/-/e2e-selectors-12.4.0.tgz#99e10c5274269cdf74004af0a8d6c80eeb07112d"
-  integrity sha512-GPFmqIJJD8yom7ld4NxAFW2kFTqiOta/8KlsqDoasiNIWjwPp2fn3ILTuZ97a+W0D7Z1LJ9QKznFXOAhKpFRJQ==
+"@grafana/e2e-selectors@12.4.1":
+  version "12.4.1"
+  resolved "https://registry.yarnpkg.com/@grafana/e2e-selectors/-/e2e-selectors-12.4.1.tgz#63b1a6946261093aa6511f7337d775577956ce87"
+  integrity sha512-Joyr95YS/8H0IRfBJcyZl/nj4Ku0hBkxJzFXICwOpNv+T/5zdXw4v3n7rhsz3MVjzdwV02lAGazaIaNLX+6CUw==
   dependencies:
     semver "^7.7.0"
     tslib "2.8.1"
@@ -678,10 +678,10 @@
     ua-parser-js "^1.0.32"
     web-vitals "^4.0.1"
 
-"@grafana/i18n@12.4.0", "@grafana/i18n@^12.4.0":
-  version "12.4.0"
-  resolved "https://registry.yarnpkg.com/@grafana/i18n/-/i18n-12.4.0.tgz#d376a2f3eeb15fbe023160a88b25e673d6f2856b"
-  integrity sha512-q+FqI+KjF2/jzzTv5gwDaJMmNmONjjT2SsX+SNOJby0b3Lx10B/6TSyPTEsOeeAEr59ClpQmNmSo4e1C2/v5MA==
+"@grafana/i18n@12.4.1", "@grafana/i18n@^12.4.0":
+  version "12.4.1"
+  resolved "https://registry.yarnpkg.com/@grafana/i18n/-/i18n-12.4.1.tgz#8cacb543934a5bb678a3397528d72cdee1e537fe"
+  integrity sha512-29PjuN2COtSDDN1TPmSCVMDEKwUANvqs2DAxXPk/sayjxCVdLG09M1/9LP+Y6EhfwmKo0Gv910+lBJLn8G4KkA==
   dependencies:
     "@formatjs/intl-durationformat" "^0.7.0"
     "@typescript-eslint/utils" "^8.33.1"
@@ -740,19 +740,19 @@
     uuid "^11.0.0"
 
 "@grafana/prometheus@^12.4.0":
-  version "12.4.0"
-  resolved "https://registry.yarnpkg.com/@grafana/prometheus/-/prometheus-12.4.0.tgz#92bb5d399aa59e7b77e94fe1f04ab23ccf1a9435"
-  integrity sha512-dPaK8a7albL8LeCm5mNMDIbZDh/R0bW+ISvWVymuX2dgP3Y3sIpbo9feD4ljkrr9fet7mp2K4AtpNi/xBivmQQ==
+  version "12.4.1"
+  resolved "https://registry.yarnpkg.com/@grafana/prometheus/-/prometheus-12.4.1.tgz#3cc4a6587f95400610c168706af29fb853f00440"
+  integrity sha512-rKrJDzQx2EzY4UcJ9flK3Drew/BlGr5Od1Uiz8szwkUk1c3fn3flxesnZjzk4G6m6iP097CmRv/jKOn4iACe+Q==
   dependencies:
     "@emotion/css" "11.13.5"
     "@floating-ui/react" "0.27.16"
-    "@grafana/data" "12.4.0"
-    "@grafana/e2e-selectors" "12.4.0"
-    "@grafana/i18n" "12.4.0"
+    "@grafana/data" "12.4.1"
+    "@grafana/e2e-selectors" "12.4.1"
+    "@grafana/i18n" "12.4.1"
     "@grafana/plugin-ui" "^0.12.1"
-    "@grafana/runtime" "12.4.0"
-    "@grafana/schema" "12.4.0"
-    "@grafana/ui" "12.4.0"
+    "@grafana/runtime" "12.4.1"
+    "@grafana/schema" "12.4.1"
+    "@grafana/ui" "12.4.1"
     "@hello-pangea/dnd" "18.0.1"
     "@leeoniya/ufuzzy" "1.0.19"
     "@lezer/common" "1.3.0"
@@ -783,16 +783,16 @@
     semver "7.7.3"
     uuid "11.1.0"
 
-"@grafana/runtime@12.4.0", "@grafana/runtime@^12.4.0":
-  version "12.4.0"
-  resolved "https://registry.yarnpkg.com/@grafana/runtime/-/runtime-12.4.0.tgz#7c33246c679eb83b165284a55d7d9414e77c0bdf"
-  integrity sha512-e03r1dsy671sEe+bEbMyBQFx0ijBJZIIyZPTEVeEJ+1XeAAkPafov0uV+w3nr+11/WqMU40ZQgjNxvgnNUGkBw==
+"@grafana/runtime@12.4.1", "@grafana/runtime@^12.4.0":
+  version "12.4.1"
+  resolved "https://registry.yarnpkg.com/@grafana/runtime/-/runtime-12.4.1.tgz#143f3e07c00e99435620ebbabcebb7e1d13fd43b"
+  integrity sha512-ONBoAtvocr+hujylo4CV7lNXxhitWmVrsFjWSaPc7NN/Y7vXPmFuIJQ2E9MZM3Y26Na8jpkfqI09juJXwQ7K7g==
   dependencies:
-    "@grafana/data" "12.4.0"
-    "@grafana/e2e-selectors" "12.4.0"
+    "@grafana/data" "12.4.1"
+    "@grafana/e2e-selectors" "12.4.1"
     "@grafana/faro-web-sdk" "^1.13.2"
-    "@grafana/schema" "12.4.0"
-    "@grafana/ui" "12.4.0"
+    "@grafana/schema" "12.4.1"
+    "@grafana/ui" "12.4.1"
     "@openfeature/core" "^1.9.0"
     "@openfeature/ofrep-web-provider" "^0.3.3"
     "@openfeature/react-sdk" "^1.2.0"
@@ -804,10 +804,10 @@
     rxjs "7.8.2"
     tslib "2.8.1"
 
-"@grafana/schema@12.4.0", "@grafana/schema@^12.4.0":
-  version "12.4.0"
-  resolved "https://registry.yarnpkg.com/@grafana/schema/-/schema-12.4.0.tgz#736603b077760b63c10191c7d9a43ef38c036093"
-  integrity sha512-UEcsY6anwBuBdDt7C9Ke00p374iiBtPYiw+m+QnnXESCPW9x+nPZCF5utDs6irao6moIJmFU2Mm7F6I81BmKlA==
+"@grafana/schema@12.4.1", "@grafana/schema@^12.4.0":
+  version "12.4.1"
+  resolved "https://registry.yarnpkg.com/@grafana/schema/-/schema-12.4.1.tgz#e812930396863dc3e2c5adb09a8f4ec30e681c50"
+  integrity sha512-f/m7hEVK+sy37VG2AgXxOA3tRYjWpyYCuw4SYZO+1/YMYI0RBaHTmY3ebjZXAxnoqshbNh4wlEnFjwv3B7TBfA==
   dependencies:
     tslib "2.8.1"
 
@@ -816,20 +816,20 @@
   resolved "https://registry.yarnpkg.com/@grafana/tsconfig/-/tsconfig-2.0.1.tgz#231d46e996e53cd04367da850c03f1ef1170484c"
   integrity sha512-yGNQWQDlxFfklzMfk0i8qnDqKOvIGc0Aqe62zLS4LTqptkhnyLEVsdaVmX99m3QFOcBiiFn8scREDzGeF2iNvQ==
 
-"@grafana/ui@12.4.0", "@grafana/ui@^12.4.0":
-  version "12.4.0"
-  resolved "https://registry.yarnpkg.com/@grafana/ui/-/ui-12.4.0.tgz#15e7b25269801a70717062a82bea5e3d50a435b9"
-  integrity sha512-ikB/qMmwd2OWsPA3i1tjuvMb+ZWw/FEwi6PgWTiUaATnNA5hqkBXPowjvw4VTsX9h5vq2TILxrQnHjv9kiBn7A==
+"@grafana/ui@12.4.1", "@grafana/ui@^12.4.0":
+  version "12.4.1"
+  resolved "https://registry.yarnpkg.com/@grafana/ui/-/ui-12.4.1.tgz#e0747b37be29dc27c601eb9b244e2e056edd6807"
+  integrity sha512-/cV1vrL5uho0wFpIb9hXfIfCVHgT3N0tZ+2Z2YEwcW/XPRBaGeQSGPMk4KW2X4+KXMZqHhvXtUtxNPaqk6J0qA==
   dependencies:
     "@emotion/css" "11.13.5"
     "@emotion/react" "11.14.0"
     "@emotion/serialize" "1.3.3"
     "@floating-ui/react" "0.27.16"
-    "@grafana/data" "12.4.0"
-    "@grafana/e2e-selectors" "12.4.0"
+    "@grafana/data" "12.4.1"
+    "@grafana/e2e-selectors" "12.4.1"
     "@grafana/faro-web-sdk" "^1.13.2"
-    "@grafana/i18n" "12.4.0"
-    "@grafana/schema" "12.4.0"
+    "@grafana/i18n" "12.4.1"
+    "@grafana/schema" "12.4.1"
     "@hello-pangea/dnd" "18.0.1"
     "@monaco-editor/react" "4.7.0"
     "@popperjs/core" "2.11.8"
@@ -867,7 +867,7 @@
     react-calendar "^6.0.0"
     react-colorful "5.6.1"
     react-custom-scrollbars-2 "4.5.0"
-    react-data-grid grafana/react-data-grid#a922856b5ede21d55db3fdffb6d38dc76bdc7c58
+    react-data-grid "github:grafana/react-data-grid#a10c748f40edc538425b458af4e471a8262ec4ed"
     react-dropzone "14.3.8"
     react-highlight-words "0.21.0"
     react-hook-form "^7.49.2"
@@ -1679,9 +1679,9 @@
     clsx "^2.1.1"
 
 "@rc-component/util@^1.2.0", "@rc-component/util@^1.2.1", "@rc-component/util@^1.3.0", "@rc-component/util@^1.4.0":
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/@rc-component/util/-/util-1.9.0.tgz#ec5fe657a98554f26ef761345ca4b745be00af0e"
-  integrity sha512-5uW6AfhIigCWeEQDthTozlxiT4Prn6xYQWeO0xokjcaa186OtwPRHBZJ2o0T0FhbjGhZ3vXdbkv0sx3gAYW7Vg==
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/@rc-component/util/-/util-1.10.0.tgz#faeebbe0510f998b6d5cee9da9176b6d613cac2c"
+  integrity sha512-aY9GLBuiUdpyfIUpAWSYer4Tu3mVaZCo5A0q9NtXcazT3MRiI3/WNHCR+DUn5VAtR6iRRf0ynCqQUcHli5UdYw==
   dependencies:
     is-mobile "^5.0.0"
     react-is "^18.2.0"
@@ -2067,16 +2067,16 @@
     "@swc/counter" "^0.1.3"
 
 "@tanstack/react-virtual@^3.5.1":
-  version "3.13.19"
-  resolved "https://registry.yarnpkg.com/@tanstack/react-virtual/-/react-virtual-3.13.19.tgz#969466d6260daa8bc9e1d2bf0711510f34f0fe93"
-  integrity sha512-KzwmU1IbE0IvCZSm6OXkS+kRdrgW2c2P3Ho3NC+zZXWK6oObv/L+lcV/2VuJ+snVESRlMJ+w/fg4WXI/JzoNGQ==
+  version "3.13.23"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-virtual/-/react-virtual-3.13.23.tgz#27e969396c39ee919dead847b2f513e2f3b707bf"
+  integrity sha512-XnMRnHQ23piOVj2bzJqHrRrLg4r+F86fuBcwteKfbIjJrtGxb4z7tIvPVAe4B+4UVwo9G4Giuz5fmapcrnZ0OQ==
   dependencies:
-    "@tanstack/virtual-core" "3.13.19"
+    "@tanstack/virtual-core" "3.13.23"
 
-"@tanstack/virtual-core@3.13.19":
-  version "3.13.19"
-  resolved "https://registry.yarnpkg.com/@tanstack/virtual-core/-/virtual-core-3.13.19.tgz#ab7b5de0b7ba17f22530f4efda5bf2b771fbda9d"
-  integrity sha512-/BMP7kNhzKOd7wnDeB8NrIRNLwkf5AhCYCvtfZV2GXWbBieFm/el0n6LOAXlTi6ZwHICSNnQcIxRCWHrLzDY+g==
+"@tanstack/virtual-core@3.13.23":
+  version "3.13.23"
+  resolved "https://registry.yarnpkg.com/@tanstack/virtual-core/-/virtual-core-3.13.23.tgz#72bcaad8bbf6bd86e0d02776dc7dc968d0aba07b"
+  integrity sha512-zSz2Z2HNyLjCplANTDyl3BcdQJc2k1+yyFoKhNRmCr7V7dY8o8q5m8uFTI1/Pg1kL+Hgrz6u3Xo6eFUB7l66cg==
 
 "@testing-library/jest-dom@^6.6.0":
   version "6.9.1"
@@ -2266,9 +2266,9 @@
   integrity sha512-H3MHACvFUEiujabxhaI/ImO6gUrd8oOurg7LQtS7mbwIXA/cUqWrvBsaeJ23aZEPk1TAYkurjfMbSELfoCXlGA==
 
 "@types/node@*", "@types/node@>=13.7.0":
-  version "25.3.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-25.3.3.tgz#605862544ee7ffd7a936bcbf0135a14012f1e549"
-  integrity sha512-DpzbrH7wIcBaJibpKo9nnSQL0MTRdnWttGyE5haGwK86xgMOkFLp7vEyfQPGLOJh5wNYiJ3V9PmUMDhV9u8kkQ==
+  version "25.5.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-25.5.0.tgz#5c99f37c443d9ccc4985866913f1ed364217da31"
+  integrity sha512-jp2P3tQMSxWugkCUKLRPVUpGaL5MVFwF8RDuSRztfwgN1wmqJeMSbKlnEtQqU8UrhTmzEmZdu2I6v2dpp7XIxw==
   dependencies:
     undici-types "~7.18.0"
 
@@ -2454,6 +2454,15 @@
     "@typescript-eslint/types" "^8.56.1"
     debug "^4.4.3"
 
+"@typescript-eslint/project-service@8.57.1":
+  version "8.57.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/project-service/-/project-service-8.57.1.tgz#16af9fe16eedbd7085e4fdc29baa73715c0c55c5"
+  integrity sha512-vx1F37BRO1OftsYlmG9xay1TqnjNVlqALymwWVuYTdo18XuKxtBpCj1QlzNIEHlvlB27osvXFWptYiEWsVdYsg==
+  dependencies:
+    "@typescript-eslint/tsconfig-utils" "^8.57.1"
+    "@typescript-eslint/types" "^8.57.1"
+    debug "^4.4.3"
+
 "@typescript-eslint/scope-manager@8.56.1":
   version "8.56.1"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/scope-manager/-/scope-manager-8.56.1.tgz#254df93b5789a871351335dd23e20bc164060f24"
@@ -2462,10 +2471,23 @@
     "@typescript-eslint/types" "8.56.1"
     "@typescript-eslint/visitor-keys" "8.56.1"
 
-"@typescript-eslint/tsconfig-utils@8.56.1", "@typescript-eslint/tsconfig-utils@^8.56.1":
+"@typescript-eslint/scope-manager@8.57.1":
+  version "8.57.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/scope-manager/-/scope-manager-8.57.1.tgz#4524d7e7b420cb501807499684d435ae129aaf35"
+  integrity sha512-hs/QcpCwlwT2L5S+3fT6gp0PabyGk4Q0Rv2doJXA0435/OpnSR3VRgvrp8Xdoc3UAYSg9cyUjTeFXZEPg/3OKg==
+  dependencies:
+    "@typescript-eslint/types" "8.57.1"
+    "@typescript-eslint/visitor-keys" "8.57.1"
+
+"@typescript-eslint/tsconfig-utils@8.56.1":
   version "8.56.1"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/tsconfig-utils/-/tsconfig-utils-8.56.1.tgz#1afa830b0fada5865ddcabdc993b790114a879b7"
   integrity sha512-qOtCYzKEeyr3aR9f28mPJqBty7+DBqsdd63eO0yyDwc6vgThj2UjWfJIcsFeSucYydqcuudMOprZ+x1SpF3ZuQ==
+
+"@typescript-eslint/tsconfig-utils@8.57.1", "@typescript-eslint/tsconfig-utils@^8.56.1", "@typescript-eslint/tsconfig-utils@^8.57.1":
+  version "8.57.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/tsconfig-utils/-/tsconfig-utils-8.57.1.tgz#9233443ec716882a6f9e240fd900a73f0235f3d7"
+  integrity sha512-0lgOZB8cl19fHO4eI46YUx2EceQqhgkPSuCGLlGi79L2jwYY1cxeYc1Nae8Aw1xjgW3PKVDLlr3YJ6Bxx8HkWg==
 
 "@typescript-eslint/type-utils@8.56.1":
   version "8.56.1"
@@ -2478,10 +2500,15 @@
     debug "^4.4.3"
     ts-api-utils "^2.4.0"
 
-"@typescript-eslint/types@8.56.1", "@typescript-eslint/types@^8.34.1", "@typescript-eslint/types@^8.56.1":
+"@typescript-eslint/types@8.56.1":
   version "8.56.1"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-8.56.1.tgz#975e5942bf54895291337c91b9191f6eb0632ab9"
   integrity sha512-dbMkdIUkIkchgGDIv7KLUpa0Mda4IYjo4IAMJUZ+3xNoUXxMsk9YtKpTHSChRS85o+H9ftm51gsK1dZReY9CVw==
+
+"@typescript-eslint/types@8.57.1", "@typescript-eslint/types@^8.34.1", "@typescript-eslint/types@^8.56.1", "@typescript-eslint/types@^8.57.1":
+  version "8.57.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-8.57.1.tgz#54b27a8a25a7b45b4f978c3f8e00c4c78f11142c"
+  integrity sha512-S29BOBPJSFUiblEl6RzPPjJt6w25A6XsBqRVDt53tA/tlL8q7ceQNZHTjPeONt/3S7KRI4quk+yP9jK2WjBiPQ==
 
 "@typescript-eslint/typescript-estree@8.56.1":
   version "8.56.1"
@@ -2498,7 +2525,22 @@
     tinyglobby "^0.2.15"
     ts-api-utils "^2.4.0"
 
-"@typescript-eslint/utils@8.56.1", "@typescript-eslint/utils@^8.32.1", "@typescript-eslint/utils@^8.33.1":
+"@typescript-eslint/typescript-estree@8.57.1":
+  version "8.57.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/typescript-estree/-/typescript-estree-8.57.1.tgz#a9fd28d4a0ec896aa9a9a7e0cead62ea24f99e76"
+  integrity sha512-ybe2hS9G6pXpqGtPli9Gx9quNV0TWLOmh58ADlmZe9DguLq0tiAKVjirSbtM1szG6+QH6rVXyU6GTLQbWnMY+g==
+  dependencies:
+    "@typescript-eslint/project-service" "8.57.1"
+    "@typescript-eslint/tsconfig-utils" "8.57.1"
+    "@typescript-eslint/types" "8.57.1"
+    "@typescript-eslint/visitor-keys" "8.57.1"
+    debug "^4.4.3"
+    minimatch "^10.2.2"
+    semver "^7.7.3"
+    tinyglobby "^0.2.15"
+    ts-api-utils "^2.4.0"
+
+"@typescript-eslint/utils@8.56.1":
   version "8.56.1"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/utils/-/utils-8.56.1.tgz#5a86acaf9f1b4c4a85a42effb217f73059f6deb7"
   integrity sha512-HPAVNIME3tABJ61siYlHzSWCGtOoeP2RTIaHXFMPqjrQKCGB9OgUVdiNgH7TJS2JNIQ5qQ4RsAUDuGaGme/KOA==
@@ -2508,12 +2550,30 @@
     "@typescript-eslint/types" "8.56.1"
     "@typescript-eslint/typescript-estree" "8.56.1"
 
+"@typescript-eslint/utils@^8.32.1", "@typescript-eslint/utils@^8.33.1":
+  version "8.57.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/utils/-/utils-8.57.1.tgz#e40f5a7fcff02fd24092a7b52bd6ec029fb50465"
+  integrity sha512-XUNSJ/lEVFttPMMoDVA2r2bwrl8/oPx8cURtczkSEswY5T3AeLmCy+EKWQNdL4u0MmAHOjcWrqJp2cdvgjn8dQ==
+  dependencies:
+    "@eslint-community/eslint-utils" "^4.9.1"
+    "@typescript-eslint/scope-manager" "8.57.1"
+    "@typescript-eslint/types" "8.57.1"
+    "@typescript-eslint/typescript-estree" "8.57.1"
+
 "@typescript-eslint/visitor-keys@8.56.1":
   version "8.56.1"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/visitor-keys/-/visitor-keys-8.56.1.tgz#50e03475c33a42d123dc99e63acf1841c0231f87"
   integrity sha512-KiROIzYdEV85YygXw6BI/Dx4fnBlFQu6Mq4QE4MOH9fFnhohw6wX/OAvDY2/C+ut0I3RSPKenvZJIVYqJNkhEw==
   dependencies:
     "@typescript-eslint/types" "8.56.1"
+    eslint-visitor-keys "^5.0.0"
+
+"@typescript-eslint/visitor-keys@8.57.1":
+  version "8.57.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/visitor-keys/-/visitor-keys-8.57.1.tgz#3af4f88118924d3be983d4b8ae84803f11fe4563"
+  integrity sha512-YWnmJkXbofiz9KbnbbwuA2rpGkFPLbAIetcCNO6mJ8gdhdZ/v7WDXsoGFAJuM6ikUFKTlSQnjWnVO4ux+UzS6A==
+  dependencies:
+    "@typescript-eslint/types" "8.57.1"
     eslint-visitor-keys "^5.0.0"
 
 "@webassemblyjs/ast@1.14.1", "@webassemblyjs/ast@^1.14.1":
@@ -4853,11 +4913,11 @@ i18next@^23.11.5:
     "@babel/runtime" "^7.23.2"
 
 i18next@^25.0.0:
-  version "25.8.14"
-  resolved "https://registry.yarnpkg.com/i18next/-/i18next-25.8.14.tgz#5c3fcbb31014597e01d98a86250803cef836f9a7"
-  integrity sha512-paMUYkfWJMsWPeE/Hejcw+XLhHrQPehem+4wMo+uELnvIwvCG019L9sAIljwjCmEMtFQQO3YeitJY8Kctei3iA==
+  version "25.8.20"
+  resolved "https://registry.yarnpkg.com/i18next/-/i18next-25.8.20.tgz#6bdf1334e79fd19d7ceadbaaeceb9ca2f63855b4"
+  integrity sha512-xjo9+lbX/P1tQt3xpO2rfJiBppNfUnNIPKgCvNsTKsvTOCro1Qr/geXVg1N47j5ScOSaXAPq8ET93raK3Rr06A==
   dependencies:
-    "@babel/runtime" "^7.28.4"
+    "@babel/runtime" "^7.28.6"
 
 iconv-lite@0.6, iconv-lite@0.6.3:
   version "0.6.3"
@@ -6773,9 +6833,10 @@ react-custom-scrollbars-2@4.5.0:
     prop-types "^15.5.10"
     raf "^3.1.0"
 
-react-data-grid@grafana/react-data-grid#a922856b5ede21d55db3fdffb6d38dc76bdc7c58:
+"react-data-grid@github:grafana/react-data-grid#a10c748f40edc538425b458af4e471a8262ec4ed":
   version "7.0.0-beta.56"
-  resolved "https://codeload.github.com/grafana/react-data-grid/tar.gz/a922856b5ede21d55db3fdffb6d38dc76bdc7c58"
+  uid a10c748f40edc538425b458af4e471a8262ec4ed
+  resolved "https://codeload.github.com/grafana/react-data-grid/tar.gz/a10c748f40edc538425b458af4e471a8262ec4ed"
   dependencies:
     clsx "^2.0.0"
 
@@ -7958,9 +8019,9 @@ tr46@^3.0.0:
     punycode "^2.1.1"
 
 ts-api-utils@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/ts-api-utils/-/ts-api-utils-2.4.0.tgz#2690579f96d2790253bdcf1ca35d569ad78f9ad8"
-  integrity sha512-3TaVTaAv2gTiMB35i3FiGJaRfwb3Pyn/j3m/bfAvGe8FB7CF6u+LMYqYlDh7reQf7UNvoTvdfAqHGmPGOSsPmA==
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/ts-api-utils/-/ts-api-utils-2.5.0.tgz#4acd4a155e22734990a5ed1fe9e97f113bcb37c1"
+  integrity sha512-OJ/ibxhPlqrMM0UiNHJ/0CKQkoKF243/AEmplt3qpRgkW8VG7IfOS41h7V8TjITqdByHzrjcS/2si+y4lIh8NA==
 
 ts-easing@^0.2.0:
   version "0.2.0"
